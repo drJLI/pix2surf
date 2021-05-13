@@ -1,0 +1,4 @@
+!gdown https://download.blender.org/release/Blender2.79/blender-2.79-linux-glibc219-x86_64.tar.bz2
+!tar -xf blender-2.79-linux-glibc219-x86_64.tar.bz2
+!mv blender-2.79-linux-glibc219-x86_64/blender /bin/blender
+!chmod 755 /bin/blender
